@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "MyDB": "Data Source=LAPTOP-RTDVV2HF;Initial Catalog=CapstoneProject2022;user=Capstone_sum22; password=123"
+  }
+}

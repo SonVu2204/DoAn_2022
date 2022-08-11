@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "MyDB": "Data Source=sql.bsite.net\\MSSQL2016;Initial Catalog=hung6nuh_;user=hung6nuh_; password=hung1207"
+  }
+}

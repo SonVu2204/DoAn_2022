@@ -1,0 +1,47 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net5.0\Services.AssemblyInfo.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="obj\Debug\net5.0\Services.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\project.assets.json" />
+    <Content Include="obj\Services.csproj.nuget.dgspec.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="bin\Debug\net5.0\ref\" />
+    <Folder Include="obj\Debug\net5.0\ref\" />
+    <Folder Include="Properties\PublishProfiles\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="obj\Debug\net5.0\Services.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net5.0\Services.assets.cache" />
+    <None Include="obj\Debug\net5.0\Services.csproj.AssemblyReference.cache" />
+    <None Include="obj\Debug\net5.0\Services.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\net5.0\Services.csprojAssemblyReference.cache" />
+    <None Include="obj\Debug\net5.0\Services.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\project.nuget.cache" />
+    <None Include="obj\Services.csproj.nuget.g.props" />
+    <None Include="obj\Services.csproj.nuget.g.targets" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.17" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ModelAuto">
+      <HintPath>..\ModelAuto\bin\Debug\net5.0\ModelAuto.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

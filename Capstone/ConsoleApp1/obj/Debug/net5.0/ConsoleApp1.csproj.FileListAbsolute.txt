@@ -1,0 +1,16 @@
+D:\DoAn2022\BE\Capstone\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+D:\DoAn2022\BE\Capstone\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+D:\DoAn2022\BE\Capstone\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+D:\DoAn2022\BE\Capstone\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+D:\DoAn2022\BE\Capstone\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+D:\DoAn2022\BE\Capstone\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+D:\DoAn2022\BE\Capstone\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\DoAn2022\BE\Capstone\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DoAn2022\BE\Capstone\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\DoAn2022\BE\Capstone\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+D:\DoAn2022\BE\Capstone\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\DoAn2022\BE\Capstone\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+D:\DoAn2022\BE\Capstone\ConsoleApp1\obj\Debug\net5.0\refint\ConsoleApp1.dll
+D:\DoAn2022\BE\Capstone\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+D:\DoAn2022\BE\Capstone\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
+D:\DoAn2022\BE\Capstone\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll

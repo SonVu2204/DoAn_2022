@@ -1,0 +1,5 @@
+D:\Capstone\BE\Capstone\Services\obj\Release\net5.0\Services.csprojAssemblyReference.cache
+D:\Capstone\BE\Capstone\Services\obj\Release\net5.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capstone\BE\Capstone\Services\obj\Release\net5.0\Services.AssemblyInfoInputs.cache
+D:\Capstone\BE\Capstone\Services\obj\Release\net5.0\Services.AssemblyInfo.cs
+D:\Capstone\BE\Capstone\Services\obj\Release\net5.0\Services.csproj.CoreCompileInputs.cache
